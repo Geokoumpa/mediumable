@@ -1,6 +1,6 @@
 # Mediumable
 
-TODO: Write a gem description
+Simple little gem that adds mediumable functionality to your models
 
 ## Installation
 
@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just install and use acts_as_mediumable in any model you wish to add media to.
+
 
 ## Contributing
 
@@ -27,3 +28,4 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
